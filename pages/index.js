@@ -1,6 +1,6 @@
 function Home() {
 	return ( 
-		<h1>Teste 1</h1>
+		<h1>O Melhor dos dois mundos!</h1>
 	)
 }
 
